@@ -1,6 +1,6 @@
 # Primer-Amplification
 
-## Desciption
+## Description
 The program uses a file `sequence.fasta`, containing the sequence of nucleic acids, and `Introns.csv`, having positions of intronic sequence, to generate the following : 
 -  All possible reading frames for the sequence given.
 -  Reading frame responsible for getting the protein sequence
